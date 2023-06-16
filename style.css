@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+div {
+    padding: 21px;
+    background: #e6e7e9;
+}
+
+.image__container img{
+    max-width: 350px;
+}
+
+.first {
+    margin: 10px;
+    background: #34495E;
+    border-radius: 20px;
+}
+
+.second {
+    margin: 10px;
+    background: #34495E;
+    border-radius: 20px;
+}
+
+.third {
+    margin: 10px;
+    background: #34495E;
+    border-radius: 20px;
+}
